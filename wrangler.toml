@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "noisy-base-c4d4"
+name = "noisy-base-fake"
 main = "src/index.ts"
 compatibility_date = "2024-09-09"
 compatibility_flags = ["nodejs_compat"]
